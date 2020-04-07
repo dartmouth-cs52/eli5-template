@@ -30,6 +30,17 @@ Remember to explain any notation you are using.
 
 Here's a resource for [github markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Use collapsible sections when you are giving away too much code
+<details>
+ <summary>Click to expand!</summary>
+ 
+ ```js
+ // some code
+ console.log('hi');
+ ```
+</details>
+
+
 
 ## Summary / What you Learned
 
