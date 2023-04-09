@@ -1,58 +1,23 @@
-# CS52 Workshops:  TITLE OF YOUR WORKSHOP
+# CS52 ELI5:  TITLE
 
-![](http://i.giphy.com/eUh8NINbZf9Ys.gif)
+## Presentation
 
-Brief motivation here as well as in presentation
+[link to presentation](http://docs.google.com)
 
-## Overview
+## Review
 
-Summary of what we're about to do.
+[link to tutorial/tutorials followed](http://google.com)
+[link or links to your implementated versions if applicable](http://google.com)
 
-## Setup
+### Overview of what was involved
 
-Any necessary setup steps
+Include screenshots of what you built. 
 
-## Step by Step
+### How did it go? 
 
-* Explanations of the what **and** the why behind each step. Try to include:
-  * higher level concepts
-  * best practices
+###  Rating
 
-Remember to explain any notation you are using.
-
-```javascript
-/* and use code blocks for any code! */
-```
-
-![screen shots are helpful](img/screenshot.png)
-
-:sunglasses: GitHub markdown files [support emoji notation](http://www.emoji-cheat-sheet.com/)
-
-Here's a resource for [github markdown](https://guides.github.com/features/mastering-markdown/).
-
-## Use collapsible sections when you are giving away too much code
-<details>
- <summary>Click to expand!</summary>
- 
- ```js
- // some code
- console.log('hi');
- ```
-</details>
-
-
-
-## Summary / What you Learned
-
-* [ ] can be checkboxes
-
-## Reflection
-
-*2 questions for the workshop participants to answer (very short answer) when they submit the workshop. These should try to get at something core to the workshop, the what and the why.*
-
-* [ ] 2 reflection questions
-* [ ] 2 reflection questions
-
+⭐️⭐️⭐️⭐️⭐️
 
 ## Resources
 
