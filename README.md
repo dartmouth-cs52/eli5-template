@@ -13,6 +13,8 @@
 
 Include screenshots of what you built. 
 
+![screenshot](img/screenshot.png)
+
 ### How did it go? 
 
 ###  Rating
